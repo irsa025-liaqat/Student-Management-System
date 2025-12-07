@@ -11,7 +11,7 @@ class SystemManager:
         self.data_dir = "data"
         self.load_all_data()
 
-    # === FILE HANDLING ===
+    # == FILE HANDLING ==
     def load_all_data(self):
         os.makedirs(self.data_dir, exist_ok=True)
         self.load_students()
