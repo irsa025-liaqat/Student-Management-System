@@ -26,5 +26,5 @@ class Record:
 
     def __str__(self):
         grades_str = ",".join(map(str, self.grades)) if self.grades else "None"
-        return (f"{self.student_id} | {self.subject_code} | "
+        return (f"{self.student_id} | {self.subject_code} | ")
                 f"grades=[{grades_str}] | attendance={self.attendance_present}/{self.attendance_total}")
