@@ -1,0 +1,5 @@
+0 | phy | grades=[100] | attendance=1/1
+1 | phy | grades=[100] | attendance=1/1
+2 | phy | grades=[93] | attendance=0/0
+3 | phy | grades=[91] | attendance=1/1
+4 | phy | grades=[80] | attendance=1/1

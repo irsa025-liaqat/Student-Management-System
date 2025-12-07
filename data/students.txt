@@ -1,0 +1,8 @@
+0 | Zaid Ahmed | Batch 14
+1 | Irsa Liaqat | Batch 14
+2 | Farhan | Batch 14
+3 | Ahteram Shah  | Batch 14
+4 | Hasaan  | Batch 14
+Faizan Ali | Faizan Ali | Section A
+Arsalan Ali | Arsalan Ali  | Batch13
+5 | Zeeshan Ali  | Section A
