@@ -14,7 +14,7 @@ def main():
         print("7. View All Students")
         print("8. Exit")
 
-        choice = input("Enter your choice: ")
+        choice = input("Enter your Choice: ")
 
         if choice == "1":
             sid = input("Enter Student ID: ")
