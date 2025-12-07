@@ -3,6 +3,6 @@
 2 | Farhan | Batch 14
 3 | Ahteram Shah  | Batch 14
 4 | Hasaan  | Batch 14
-Faizan Ali | Faizan Ali | Section A
-Arsalan Ali | Arsalan Ali  | Batch13
+5| Faizan Ali | Section A
+6| Arsalan Ali  | Batch13
 5 | Zeeshan Ali  | Section A
